@@ -5,8 +5,5 @@ export default function Feed() {
   return (
     <View>
       <Text>Feed</Text>
-      <Text>Feed 2</Text>
-      <Text>Feed 3</Text>
-      <Text>Feed4</Text>
     </View>)
 }
